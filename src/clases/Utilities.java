@@ -15,7 +15,7 @@ public class Utilities
 {
     public static void ClearScreen()
     {  
-        System.out.print("\n\n\n\n");
+        System.out.print("");
     }
     
     public static int ObtenerNumeroAleatorioEntre(int low, int high)
